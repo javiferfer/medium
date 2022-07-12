@@ -1,0 +1,8 @@
+{
+    "name": "fashion-sklearn",
+    "implementation": "mlserver_sklearn.SKLearnModel",
+    "parameters": {
+        "uri": "./fashion_mnist_svm.joblib",
+        "version": "v1"
+    }
+}

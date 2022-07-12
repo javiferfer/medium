@@ -1,0 +1,8 @@
+{
+    "name": "fashion-xgboost",
+    "implementation": "mlserver_xgboost.XGBoostModel",
+    "parameters": {
+        "uri": "./fashion_mnist_xgboost.json",
+        "version": "v1"
+    }
+}
