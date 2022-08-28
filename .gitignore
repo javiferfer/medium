@@ -2,3 +2,5 @@
 *.ipynb_checkpoints/
 
 ./nlp_tutorial/data/*
+./pyspark/data/*
+./pyspark/output/*
