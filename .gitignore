@@ -1,6 +1,6 @@
 *.DS_Store
 *.ipynb_checkpoints/
 
-./nlp_tutorial/data/*
-./pyspark/data/*
-./pyspark/output/*
+nlp_tutorial/data/*
+pyspark/data/*
+pyspark/output/*
